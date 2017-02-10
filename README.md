@@ -1,5 +1,5 @@
 # 3D Graphcut
-An interactive user interface that segments cells form 3-D confocal microscope images. It utilizes a novel segmentation algorithm that utilizes graph theory to quickly and accurately segment cell nuclei.
+An interactive user interface that segments cells from 3-D confocal microscope images. It utilizes a novel segmentation algorithm that utilizes graph theory to quickly and accurately segment cell nuclei.
 
 # Setup
 
