@@ -10,7 +10,7 @@ If you are using OSX or Linux, install [Anaconda v 2.7](https://www.continuum.io
 
 Next, make sure you have pip, a Python package manager in Python. Lastly, you will need to install maxflow, which is a python libarary that creates graphs and computes the maxflow-mincut algorithm for segmentation. To do this, run this command:
 
-`pip install maxflow`
+`pip install PyMaxflow`
 
 Lastly, open Spyder (The Python IDE that is pre-installed with Anaconda), open the Python file, and run it. 
 
