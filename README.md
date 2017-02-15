@@ -12,6 +12,12 @@ Next, make sure you have pip, a Python package manager in Python. Lastly, you wi
 
 `pip install PyMaxflow`
 
+Next, you will need to deprecate to PyQt4. Do this using the following.
+
+`conda install pyqt=4`
+
+
+
 Lastly, open Spyder (The Python IDE that is pre-installed with Anaconda), open the Python file, and run it. 
 
 
